@@ -1,0 +1,19 @@
+dotenv: .env
+networks:
+  default: development
+  rinkeby:
+    verify: False
+  mainnet-fork-dev:
+    verify: False
+  development:
+    verify: False
+  ganache-local:
+    verify: False
+wallets:
+  from_key: ${PRIVATE_KEY}
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.5.0'
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.5.0
