@@ -11,7 +11,7 @@ Decentralization | Herbs | Fitness | Sexual Well-being
 # Contract Addresses
 Kovan (Source verified)
 ```
-0xb0b84d572F509dD22BdBb2a867Bb6C7a31261F27
+0x2c0C01c6Ac30945A44730214F25D4301713232c4
 ```
 
 Rinkeby (Source verified) (LEGACY)
