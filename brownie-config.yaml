@@ -5,6 +5,8 @@ networks:
     verify: True
   kovan:
     verify: True
+  goerli:
+    verify: True
   mainnet-fork-dev:
     verify: False
   development:
@@ -15,6 +17,7 @@ wallets:
   from_key: ${PRIVATE_KEY}
 compiler:
   solc:
+    version: '0.8.17'
     remappings:
       - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.5.0'
 dependencies:
