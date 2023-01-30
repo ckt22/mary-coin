@@ -9,9 +9,9 @@ Shop | Governance | Yield-Farming
 Decentralization | Herbs | Fitness | Sexual Well-being
 
 # Contract Addresses
-Goerli
+Goerli (Source verified)
 ```
-0xb9b20495fC2Fe84223aD9B1AF73BB2A5E7baC19B
+0x71f009c73729c1601074Cb87B39169E94071b84F
 ```
 
 Kovan (Source verified)
